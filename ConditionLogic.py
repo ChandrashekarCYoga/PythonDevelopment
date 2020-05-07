@@ -94,7 +94,6 @@ elif is_magician and not is_expert:
 elif not is_magician:
     print("you need magical powers")
 
-
 print(True == 1)
 print('' == 1)
 print([] == 1)

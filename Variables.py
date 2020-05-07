@@ -9,11 +9,10 @@
 
 user_iq = 190
 
-user_age = user_iq/4
+user_age = user_iq / 4
 
 print(user_iq)
 print(user_age)
-
 
 # constants
 # value don't change
@@ -31,7 +30,6 @@ print(b)
 
 print(c)
 
-
 # augmented assignment operator
 some_value = 5
 some_value += 2
@@ -43,7 +41,7 @@ x = "Hello World"
 print(x)
 print(type(x))
 
-long_string ='''
+long_string = '''
 WOW
 O O
 ---
@@ -75,7 +73,7 @@ x = range(6)
 print(x)
 print(type(x))
 
-x = {"name" : "John", "age" : 36}
+x = {"name": "John", "age": 36}
 print(x)
 print(type(x))
 
@@ -121,11 +119,11 @@ print('Hi {}. You are {} years old'.format(name, age))
 
 print('Hi {0}. You are {1} years old'.format(name, age))
 
-print('Hi {new_name}. You are {age} years old'.format(new_name='sally', age=100))
-
+print('Hi {new_name}. You are {age} years old'.format(
+    new_name='sally', age=100))
 
 selfish = 'me me me'
-        #  01234567
+#  01234567
 
 print(selfish[0])
 
