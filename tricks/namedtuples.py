@@ -20,3 +20,7 @@ print(my_car)
 # Like tuples, namedtuples are immutable:
 
 my_car.color = 'blue'
+
+# Car(color='red', mileage=3812.4)
+#     my_car.color = 'blue'
+# AttributeError: can't set attribute
