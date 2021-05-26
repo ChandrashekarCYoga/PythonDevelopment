@@ -26,3 +26,15 @@ print(round(3.1))
 print(round(3.9))
 
 print(abs(-20))
+print(type([]))
+print(type(()))
+print(type({}))
+
+class BigObject:
+	#code
+	pass
+
+obj1 = BigObject()  #instanciate
+
+print(type(BigObject))
+print(type(obj1))
