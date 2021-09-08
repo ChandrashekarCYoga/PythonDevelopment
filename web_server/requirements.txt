@@ -123,7 +123,7 @@ pexpect==4.8.0
 piccata==2.0.1
 pickleshare==0.7.5
 pika==1.1.0
-Pillow==7.1.2
+Pillow==8.3.2
 pluggy==0.13.1
 pre-commit==2.5.0
 prometheus-client==0.8.0
