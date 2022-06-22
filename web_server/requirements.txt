@@ -107,7 +107,7 @@ networkx==2.4
 nodeenv==1.4.0
 notebook==6.0.3
 nrfutil==6.1.0
-numpy==1.18.5
+numpy==1.22.0
 oauth2client==4.1.3
 oauthlib==3.1.0
 opt-einsum==3.2.1
